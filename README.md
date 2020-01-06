@@ -1,4 +1,3 @@
-A sample command-line application.
+# Free Code Camp's #ProjectEuler100 Challenge
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+[Problem 1](https://github.com/ArnavPuri/ProjectEuler100-FCC/blob/master/bin/problem1.dart) - [Problem 1 test](https://github.com/ArnavPuri/ProjectEuler100-FCC/blob/master/test/problem1_test.dart)
