@@ -11,7 +11,7 @@ int largestPalindromeProduct(int digits) {
   int upperBound = pow(10, digits);
   int maxPalindrome = -1;
   for (int i = upperBound - 1; i > lowerBound; i--) {
-    for (int j = upperBound; j > lowerBound; j--) {
+    for (int j = upperBound - 1; j > lowerBound; j--) {
       int prod = i * j;
       if (isPalindrome(prod)) {
         if (prod > maxPalindrome) {
@@ -22,7 +22,6 @@ int largestPalindromeProduct(int digits) {
   }
   return maxPalindrome;
 }
-// 993 913
 
 bool isPalindrome(int number) =>
     number.toString() == number.toString().split('').reversed.join();
