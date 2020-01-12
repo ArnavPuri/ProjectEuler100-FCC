@@ -9,3 +9,4 @@
 - [Problem 7: 10001st prime](https://github.com/ArnavPuri/ProjectEuler100-FCC/blob/master/bin/problem7.dart) - [Problem 7 test cases](https://github.com/ArnavPuri/ProjectEuler100-FCC/blob/master/test/problem7_test.dart) 
 - [Problem 8: Largest product in a series](https://github.com/ArnavPuri/ProjectEuler100-FCC/blob/master/bin/problem8.dart) - [Problem 8 test cases](https://github.com/ArnavPuri/ProjectEuler100-FCC/blob/master/test/problem8_test.dart) 
 - [Problem 9: Special Pythagorean triplet](https://github.com/ArnavPuri/ProjectEuler100-FCC/blob/master/bin/problem9.dart) - [Problem 9 test cases](https://github.com/ArnavPuri/ProjectEuler100-FCC/blob/master/test/problem9_test.dart) 
+- [Problem 10: Summation of primes](https://github.com/ArnavPuri/ProjectEuler100-FCC/blob/master/bin/problem10.dart) - [Problem 10 test cases](https://github.com/ArnavPuri/ProjectEuler100-FCC/blob/master/test/problem10_test.dart) 
