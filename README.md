@@ -7,3 +7,5 @@
 - [Problem 5: Smallest Multiple](https://github.com/ArnavPuri/ProjectEuler100-FCC/blob/master/bin/problem5.dart) - [Problem 5 test cases](https://github.com/ArnavPuri/ProjectEuler100-FCC/blob/master/test/problem5_test.dart) 
 - [Problem 6: Sum square difference](https://github.com/ArnavPuri/ProjectEuler100-FCC/blob/master/bin/problem6.dart) - [Problem 6 test cases](https://github.com/ArnavPuri/ProjectEuler100-FCC/blob/master/test/problem6_test.dart) 
 - [Problem 7: 10001st prime](https://github.com/ArnavPuri/ProjectEuler100-FCC/blob/master/bin/problem7.dart) - [Problem 7 test cases](https://github.com/ArnavPuri/ProjectEuler100-FCC/blob/master/test/problem7_test.dart) 
+- [Problem 8: Largest product in a series](https://github.com/ArnavPuri/ProjectEuler100-FCC/blob/master/bin/problem8.dart) - [Problem 8 test cases](https://github.com/ArnavPuri/ProjectEuler100-FCC/blob/master/test/problem8_test.dart) 
+- [Problem 9: Special Pythagorean triplet](https://github.com/ArnavPuri/ProjectEuler100-FCC/blob/master/bin/problem9.dart) - [Problem 9 test cases](https://github.com/ArnavPuri/ProjectEuler100-FCC/blob/master/test/problem9_test.dart) 
